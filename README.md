@@ -95,3 +95,9 @@
     2. snap install whatsapp-for-linux
     3. snap run whatsapp-for-linux
     ```
+
+### 11. Install screenshot tool
+    ```
+    1. sudo apt-get update
+    2. sudo apt-get install gnome-screenshot
+    ```
